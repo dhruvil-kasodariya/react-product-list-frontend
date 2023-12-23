@@ -28,20 +28,24 @@ Follow these steps to set up the project locally:
 **Sign Up:**
  
 Includes validation for user registration.
-[Add more details if needed]
+
 
 **Sign In:**
 
-[Add any specific details about the sign-in process]
+Includes validation for user registration.
+
  
 # Product Operations After Login
 **View Products:**
+
 Users can view a list of products after successful login.
 
 **Delete Product:**
+
 click on delete icon below product image (do not use this funtionality if not nesscery)
 
 **Change Product Status:**
+
 click on drorp dwon below product image and wait for 2 sec.
 
 ## Additional Notes
