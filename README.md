@@ -29,23 +29,23 @@ Follow these steps to set up the project locally:
  
 Includes validation for user registration.
 [Add more details if needed]
-Sign In:
+
+**Sign In:**
 
 [Add any specific details about the sign-in process]
-Product Operations After Login
-View Products:
+ 
+# Product Operations After Login
+**View Products:**
 
 Users can view a list of products after successful login.
-Delete Product:
+**Delete Product:**
+click on delete icon below product image (do not use this funtionality if not nesscery)
 
-[Describe how users can delete a product]
-Change Product Status:
+**Change Product Status:**
+click on drorp dwon below product image and wait for 2 sec.
 
-[Provide details on changing the status of a product]
-Additional Notes
-[Add any other relevant information, special instructions, or considerations]
-Ensure that the backend server is running and accessible.
-Customize environment variables or configuration files as needed.
+## Additional Notes
+
 Feel free to reach out if you have specific questions or need further assistanc
 
 
