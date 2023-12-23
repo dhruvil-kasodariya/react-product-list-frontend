@@ -36,8 +36,8 @@ Includes validation for user registration.
  
 # Product Operations After Login
 **View Products:**
-
 Users can view a list of products after successful login.
+
 **Delete Product:**
 click on delete icon below product image (do not use this funtionality if not nesscery)
 
