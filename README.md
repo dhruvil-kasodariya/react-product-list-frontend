@@ -23,8 +23,8 @@ Follow these steps to set up the project locally:
    yarn
    yarn start
    
-## Functionality
- # User Authentication
+# Functionality
+ ## User Authentication
 **Sign Up:**
  
 Includes validation for user registration.
@@ -35,7 +35,7 @@ Includes validation for user registration.
 Includes validation for user registration.
 
  
-# Product Operations After Login
+## Product Operations After Login
 **View Products:**
 
 Users can view a list of products after successful login.
