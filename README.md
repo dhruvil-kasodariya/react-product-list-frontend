@@ -25,8 +25,8 @@ Follow these steps to set up the project locally:
    
 ## Functionality
  # User Authentication
-Sign Up:
-
+**Sign Up:**
+ 
 Includes validation for user registration.
 [Add more details if needed]
 Sign In:
